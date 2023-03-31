@@ -1,12 +1,12 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+// import { NavLink } from "react-router-dom";
 import "./Footer.css";
 export default function Footer() {
   return (
     <div className="footer-section" id="contactUs">
       <div className="footer-container">
         <div className="footer-image footer-solo-section">
-          <img src="https://ibb.co/0yJgTYZ" alt="" />
+          <img src="https://i.ibb.co/LdpLm96/FINAL-LOGO-01.png" alt="" />
         </div>
         <div className="footer-content-section footer-solo-section">
           <div className="content-section-heading">
