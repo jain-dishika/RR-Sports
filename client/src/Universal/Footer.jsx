@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="footer-section" id="contactUs">
       <div className="footer-container">
         <div className="footer-image footer-solo-section">
-          <img src="./images/Logo.png" alt="" />
+          <img src="https://ibb.co/0yJgTYZ" alt="" />
         </div>
         <div className="footer-content-section footer-solo-section">
           <div className="content-section-heading">
