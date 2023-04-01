@@ -40,10 +40,13 @@ export default function Header() {
           <div className="nav-items">
             <div className="item1">
               <a href="#">Home</a>
+              <a href="#aboutUs">About Us</a>
               <a href="#feature">Features</a>
               <a href="#games">Games</a>
               <a href="#">Packages</a>
               <a href="#contactUs">Contact Us</a>
+              <a href="#">Plan Visit</a>
+              <a className="bookNow" target='_blank' href="https://web.whatsapp.com/send?phone=9111144062&text=Hi%20!">Book Now</a>
             </div>
           </div>
         ) : (

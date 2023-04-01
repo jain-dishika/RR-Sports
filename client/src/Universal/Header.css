@@ -8,6 +8,7 @@
     /* border: 2px solid; */
     position: sticky;
     top: 0;
+    z-index: 15;
 }
 a {
     text-decoration: none;
@@ -33,9 +34,13 @@ a {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    width: 70%;
+    width: 90%;
 }
-
+.bookNow{
+    background-color: #ea3636;
+    border-radius: 10px;
+    color: white !important;
+}
 .item1 {
     display: flex;
     justify-content: flex-end;
@@ -67,7 +72,7 @@ a {
         width: 100%;
     }
     .header-img-container img{
-        width: 40%;
+        width: 20%;
     }
     .header-bar,
     .item1,
@@ -85,6 +90,8 @@ a {
         font-size: 18px;
         align-items: center;
         font-weight: 600;
+        display: flex;
+        justify-content: center;
     }
 
     .item1 a {

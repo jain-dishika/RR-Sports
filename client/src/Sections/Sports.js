@@ -4,7 +4,7 @@ import "./Sports.css";
 function Sports(props) {
   return (
     <div className="singleProduct-origin" >
-      <div className="product-card" style={{background:`${props.color}`}}>
+      <div className="product-card">
         <div className="figure">
           <img src={props.img} alt=""/>
         </div>

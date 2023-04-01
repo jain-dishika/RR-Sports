@@ -15,7 +15,7 @@ function Game() {
             <Sports name={"Chess"} color={"#128c7e"} img={"https://img.freepik.com/free-photo/black-white-chess-pieces-black-background_23-2148952321.jpg"}/>
             <Sports name={"Pool Table"} color={"#60389c"} img={"https://images.unsplash.com/photo-1544070928-135893793bdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9vbCUyMHRhYmxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"}/>
             <Sports name={"FoosBall"} color={"#3f6b55"} img={"http://cdn.shopify.com/s/files/1/0011/8367/8476/products/fooseball6.png?v=1650621923"}/>
-            <Sports name={"Dot Game"} color={"#cd143f"} img={"https://i0.wp.com/www.thegamegal.com/wp-content/uploads/2010/07/dots2.jpg"}/>
+            <Sports name={"Dart Game"} color={"#cd143f"} img={"https://play-lh.googleusercontent.com/4AyDJG30AlwZuzKHWfxK8ECbiNGfU-mfAx4waKT5XI5bUFURnjV59Tl4sJQ6nOOmbcEt"}/>
             <Sports name={"Hulla Hups"} color={"#3757a1"} img={"http://4.bp.blogspot.com/-7dUOO_FO0G4/Uc_AsdnjqpI/AAAAAAAARMI/jZuKQc1CKfI/s600/Gross+Motor+Activity+%7BHula+Hoop+Games%7D+(5).JPG"}/>
             <Sports name={"Archery"} color={"#c02323"} img={"https://play-lh.googleusercontent.com/1yRPXa0wUlcJLyuGpgbS5kJe1UdNQSanv1OOdtqjI4zRPcvL9MFNUbJ3gE9dlVqAecFW"}/>
             <Sports name={"Carrom"} color={"#ca2485"} img={"https://images.unsplash.com/photo-1620741212082-4e5c8194883e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm9tJTIwYm9hcmR8ZW58MHx8MHx8&w=1000&q=80"}/>

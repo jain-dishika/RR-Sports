@@ -1,7 +1,7 @@
 .feature-name{
     margin-top: 60px;
 }
-.feature-name h1{
+ h1{
     text-align: center;
     font-weight: 600;
 }
@@ -91,10 +91,11 @@
 .icon-text h6{
     text-align: center;
     font-weight: bold;
+    color: black;
 }
 .icon-text p{
     font-size: 13px;
-    color: #666;
+    color: #000;
     text-align: center;
 }
 @media screen and (max-width: 828px) {
